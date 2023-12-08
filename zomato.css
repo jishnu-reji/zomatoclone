@@ -255,6 +255,10 @@ h1{
     margin: 10px 0;
 }
 
+mo{
+    width: 75%;
+}
+
 @media(max-width:722px){
     .nav{
         display: none;
@@ -267,5 +271,9 @@ h1{
 
     h2{
         font-size: 20px;
+    }
+
+    #zom{
+        width: 200px;
     }
 }
